@@ -1,0 +1,2 @@
+C:\Users\Ben\source\repos\BrainFuck\Debug\BrainFuck.exe
+C:\Users\Ben\source\repos\BrainFuck\Debug\BrainFuck.pdb

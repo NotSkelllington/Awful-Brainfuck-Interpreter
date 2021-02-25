@@ -1,0 +1,4 @@
+﻿  BrainFuck.cpp
+C:\Users\Ben\source\repos\BrainFuck\BrainFuck.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ben\source\repos\BrainFuck\BrainFuck.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+  BrainFuck.vcxproj -> C:\Users\Ben\source\repos\BrainFuck\Debug\BrainFuck.exe
